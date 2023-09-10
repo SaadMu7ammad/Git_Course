@@ -1,0 +1,5 @@
+*.log
+!vip.log
+
+js/app2.js
+
